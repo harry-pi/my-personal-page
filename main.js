@@ -1,4 +1,4 @@
-jQuery(window).on('load', function() {
+jQuery(window).on('ready', function() {
 	"use strict";
     
     
