@@ -1,4 +1,4 @@
-jQuery(window).on('ready', function() {
+/*jQuery(window).on('ready', function() {
 	"use strict";
     
     
@@ -27,7 +27,7 @@ jQuery(window).on('ready', function() {
 
 
 jQuery(document).ready(function($) {
-	"use strict";
+	"use strict"; */
     
     
     // SMOOTH SCROLL FOR SAME PAGE LINKS
